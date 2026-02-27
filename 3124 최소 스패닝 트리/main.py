@@ -45,7 +45,7 @@ for t in range(1,T+1):
         root_y = find(y)
 
         if root_x == root_y:
-            
+
 
 
     for item in dist_list:
